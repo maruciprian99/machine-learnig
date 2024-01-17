@@ -1,7 +1,7 @@
 ---
 title: "Predicting Correct Workout Exercise Performance Based on Accelerometer Data"
-author: "Herbert Barrientos"
-date: "May 29, 2016"
+author: "Ionut Ciprian Maru"
+date: "17/01/2024"
 output: html_document
 ---
 ##Motivation
